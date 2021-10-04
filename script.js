@@ -22,7 +22,7 @@ function allowDrop(ev) {
 }
 
 
-// Start drap
+// Start drag
 function drag(ev) {
     // store prevState / prev parent of the pill
     prevParent = ev.target.parentNode.id
